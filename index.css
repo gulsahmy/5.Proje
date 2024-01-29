@@ -1,0 +1,23 @@
+
+#img{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+#par{
+    display: inline-block;
+    margin: auto;
+    padding: 50px;
+}
+.imgdiv{
+    display: inline-block;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
